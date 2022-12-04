@@ -8,13 +8,20 @@ Membuat otomatisasi sistem kasir pada suatu swalayan besar yang dapat melakukan 
   3. Melakukan kalkulasi pembayaran dan menampilkan total belanja dari seluruh item yang ada
 
 # ALUR PROGRAM
-  1. Jalankan class terlebih dahulu sebelum menjalankan main code
+ 
+ 1. Jalankan class terlebih dahulu sebelum menjalankan main code
+  
   2. Class menyimpan berbagai macam function seperti add item, update, delete, reset, dan final transaction
-  3. Add Item memiliki fungsi untuk memasukan nama barang, jumlah, dan harga barang ke dalam dictionary yang telah dibuat. Untuk menggunakan fungsi ini ktia harus memasukan input nama barang, jumlah, dan harga barang
+ 
+ 3. Add Item memiliki fungsi untuk memasukan nama barang, jumlah, dan harga barang ke dalam dictionary yang telah dibuat. Untuk menggunakan fungsi ini ktia harus memasukan input nama barang, jumlah, dan harga barang
+  
   4.Update memiliki fungsi untuk melakukan manipulasi terhadap data yang sudah ada di dalam dictionary sehingga dapat merubah nama barang, jumlah barang, dan harga barang. Untuk menggunakan fungsi ini kita harus memasukan nama barang yang ingin diganti kemudian memasukan variabel yang ingin diganti berikutnya seperti harga, nama barang terbaru, ataupun jumlah.
+  
   5.Delete memiliki fungsi untuk menghapus barang dengan mengambil key dari dictionary yaitu nama barang yang ingin dihapus. Untuk menggunakan fungsi ini kita harus memasukan nama barang yang ingin dihilangkan.
+  
   6.Reset memiliki tugas untuk menghapus semua transaksi yang ada di shopping cart
-  7.Final Transaction bertujuan untuk memfinalisasi dan mengkalkulasikan total harga belanja yang harus dibayarkan.
+ 
+ 7.Final Transaction bertujuan untuk memfinalisasi dan mengkalkulasikan total harga belanja yang harus dibayarkan.
   
   
 # TEST CASE
